@@ -56,7 +56,7 @@ A 2-page Power BI dashboard analyzing **2.8M departures** and **187M passengers*
 ## 📸 Dashboard Preview
 
 **Home Page**
-![Home Page](High_Cloud_Home_page.png)
+![Home Page](https://github.com/Shaunak2829/High-Cloud-Airlines-Power-BI-Dashboard/blob/main/High%20Cloud%20Home%20page.png)
 
 **Carrier & Route Analysis**
 ![Page 2](High_Cloud_page_2.png)
